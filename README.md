@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Aquí guardo 4 cosas de algún que otro curso que hago... y ya.
+
 <!--
 **CurtoBrull/CurtoBrull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
