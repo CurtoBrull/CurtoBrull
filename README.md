@@ -38,13 +38,13 @@
 
 ## Estadísticas de GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcurtobr&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcurtobr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=curtobrull&theme=dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtobrull&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacto
 
 - **Página Web:** [jcurtobr.eu](https://jcurtobr.eu)  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jcurtobr/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/javier-curto-brull/)
 
 ## Mensaje Final
 
