@@ -1,17 +1,19 @@
 # Javier Curto
 
-¡Hola! Soy Javier Curto, desarrollador con algo de experiencia en el desarrollo backend y frontend utilizando principalmente **Java**, **Spring Boot** y **React**. Me destaco por mi capacidad de aprendizaje continuo y adaptabilidad, fortalecido también por mi experiencia en el ámbito militar, que me ha permitido desarrollar habilidades interpersonales y organizativas esenciales para el sector IT.
+¡Hola! Soy Javier Curto, desarrollador con experiencia en el desarrollo backend y frontend utilizando principalmente **Java**, **Spring Boot** y **React**. Formándome actualmente en lenguaje Python. Me destaco por mi capacidad de aprendizaje continuo y adaptabilidad, fortalecido también por mi experiencia en el ámbito militar, que me ha permitido desarrollar habilidades interpersonales y organizativas esenciales para el sector IT.
 
 ## Habilidades y Tecnologías
 
-- **Backend:** Java, Spring Boot
-- **Frontend:** React
+- **Backend:** Python, Java, Spring Boot
+- **Frontend:** Reflex, React
 - **Testing:** JUnit, Mockito, Jest
 - **Herramientas:** Postman, Docker, Git, GitHub
 - **Bases de Datos:** SQL, DB2, MongoDB
-- **Interés Profesional:** Ampliar conocimientos en DevOps
+- **Interés Profesional:** Ampliar conocimientos en Python y DevOps
 
 ### Tecnologías
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+![Reflex](https://img.shields.io/badge/Reflex-1C1C1C?style=flat&logoColor=white&logo=https://reflex.dev/favicon.ico)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com)  
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)  
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)  
@@ -30,7 +32,8 @@
 
 ## Educación y Formación
 
-- **Administración de Sistemas Informáticos en Red** – IES Al-Ándalus *(Actual)*  
+- **Curso de Especialización en Desarrollo de Aplicaciones en Lenguaje Python** – IES Al-Ándalus *(Actual)*
+- **Administración de Sistemas Informáticos en Red** – IES Al-Ándalus *(1er curso completado en 2024-25)* 
 - **Desarrollo de Aplicaciones Web** – IES La Puebla *(15/09/2020 – 19/12/2022)*  
 - **Técnico de Sistemas Microinformáticos y Redes** – IES La Puebla *(15/09/2018 – 15/06/2020)*  
 - **Certificación:** IT Essentials – Cisco Networking Academy  
