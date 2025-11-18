@@ -12,8 +12,8 @@
 - **Interés Profesional:** Ampliar conocimientos en Python y DevOps
 
 ### Tecnologías
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-![Reflex](https://img.shields.io/badge/Reflex-1C1C1C?style=flat&logoColor=white&logo=https://reflex.dev/favicon.ico)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
+![Reflex](https://img.shields.io/badge/Reflex-1C1C1C?style=flat&logoColor=white&logo=https://reflex.dev/favicon.ico)  
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com)  
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)  
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)  
