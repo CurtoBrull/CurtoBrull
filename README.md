@@ -39,10 +39,6 @@
 - **Certificación:** IT Essentials – Cisco Networking Academy  
 - **Formación Adicional:** Cursos autodidactas en Java, Spring Boot, Testing, Bases de Datos y más.
 
-## Estadísticas de GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtobrull&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Contacto
 
 - **Página Web:** [jcurtobr.eu](https://jcurtobr.eu)  
